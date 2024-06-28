@@ -31,7 +31,7 @@ Welcome to the Atliq Hardware Sales and Finance Analytics project! This project 
 
 ## 📈 Project Overview
 
-This project aims to provide detailed insights into the sales and financial performance of Atliq Hardware. By leveraging Excel's powerful analytical tools, I created various reports and dashboards that help in understanding customer performance, market trends, product success, and financial health.
+This project aims to provide detailed insights into the sales and financial performance of Atliq Hardware. By leveraging Excel's powerful analytical tools, I created various reports that help in understanding customer performance, market trends, product success, and financial health.
 
 ## 🛒 Sales Analytics
 
