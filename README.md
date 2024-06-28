@@ -3,18 +3,31 @@
 Welcome to the Atliq Hardware Sales and Finance Analytics project! This project involves comprehensive analysis and reporting on sales and financial data using Microsoft Excel. The project covers several key areas including sales performance, market analysis, product performance, and financial statements.
 
 ### 🛒 Sales Analytics
-- `Customer_Performance_Report`
-- `Market_Performance_vs_Targets`
-- `New_Products_2021`
-- `Top_10_Products_with_Net_Sales`
-- `Top_5_Countries`
-- `Top_5_and_Bottom_5_Products`
+ _[customer performance report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+ 
+ _[Market performance vs Targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+  
+ _[New Products 2021](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+  
+ _[Division Level Report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+ 
+ _[Top 10 Products with Net sales](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+ 
+ _[Top 5 Countries](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+ 
+ _[Top 5 and Bottom 5 Products](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+
 
 ### 💰 Finance Analytics
-- `GM_Percentage_by_Subzone.xlsx`
-- `Profit_and_Loss_Monthly.xlsx`
-- `Profit_and_Loss_Yearly.xlsx`
-- `Profit_and_Loss_Statement_by_Market_2021.xlsx`
+ 
+ _[GM% By Subzone](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+
+ _[P & L Monthly](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+ 
+ _[P & L Yearly](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+  
+ _[P & L Statement By Market](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+
 
 ## 📈 Project Overview
 
