@@ -20,13 +20,13 @@ Welcome to the Atliq Hardware Sales and Finance Analytics project! This project 
 
 ### 💰 Finance Analytics
  
- _[GM% By Subzone](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+ _[GM% By Subzone](https://github.com/Rahulvalluri/Excel-Sales-and-Finance-Analytics/blob/main/Finance%20Analytics/GM%25%20(Subzone).pdf)_ 
 
- _[P & L Monthly](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+ _[P & L Monthly](https://github.com/Rahulvalluri/Excel-Sales-and-Finance-Analytics/blob/main/Finance%20Analytics/P%20%26%20L%20Monthly.pdf)_ 
  
- _[P & L Yearly](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+ _[P & L Yearly](https://github.com/Rahulvalluri/Excel-Sales-and-Finance-Analytics/blob/main/Finance%20Analytics/P%20%26%20L%20Yearly.pdf)_
   
- _[P & L Statement By Market](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+ _[P & L Statement By Market](https://github.com/Rahulvalluri/Excel-Sales-and-Finance-Analytics/blob/main/Finance%20Analytics/P%20%26%20L%20Statement%20by%20market%20in%202021.pdf)_ 
 
 
 ## 📈 Project Overview
