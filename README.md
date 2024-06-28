@@ -3,7 +3,7 @@
 Welcome to the Atliq Hardware Sales and Finance Analytics project! This project involves comprehensive analysis and reporting on sales and financial data using Microsoft Excel. The project covers several key areas including sales performance, market analysis, product performance, and financial statements.
 
 ### 🛒 Sales Analytics
- _[customer performance report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+ _[customer performance report](https://github.com/Rahulvalluri/Excel-Sales-and-Finance-Analytics/blob/main/Sales%20Analytics/customer%20performance%20report.pdf)_
  
  _[Market performance vs Targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
   
