@@ -5,17 +5,17 @@ Welcome to the Atliq Hardware Sales and Finance Analytics project! This project 
 ### 🛒 Sales Analytics
  _[customer performance report](https://github.com/Rahulvalluri/Excel-Sales-and-Finance-Analytics/blob/main/Sales%20Analytics/customer%20performance%20report.pdf)_
  
- _[Market performance vs Targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+ _[Market performance vs Targets](https://github.com/Rahulvalluri/Excel-Sales-and-Finance-Analytics/blob/main/Sales%20Analytics/Market%20performance%20vs%20targets.pdf)_ 
   
- _[New Products 2021](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+ _[New Products 2021](https://github.com/Rahulvalluri/Excel-Sales-and-Finance-Analytics/blob/main/Sales%20Analytics/New%20product-2021.pdf)_ 
   
- _[Division Level Report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+ _[Division Level Report](https://github.com/Rahulvalluri/Excel-Sales-and-Finance-Analytics/blob/main/Sales%20Analytics/Division%20level%20report.pdf)_ 
  
- _[Top 10 Products with Net sales](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+ _[Top 10 Products with Net sales](https://github.com/Rahulvalluri/Excel-Sales-and-Finance-Analytics/blob/main/Sales%20Analytics/Top%2010%20products%20with%20net%20sales.pdf)_ 
  
- _[Top 5 Countries](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+ _[Top 5 Countries](https://github.com/Rahulvalluri/Excel-Sales-and-Finance-Analytics/blob/main/Sales%20Analytics/Top%205%20Country.pdf)_ 
  
- _[Top 5 and Bottom 5 Products](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+ _[Top 5 and Bottom 5 Products](https://github.com/Rahulvalluri/Excel-Sales-and-Finance-Analytics/blob/main/Sales%20Analytics/Top%205%20and%20Bottom%205%20Products.pdf)_ 
 
 
 ### 💰 Finance Analytics
